@@ -1,0 +1,39 @@
+.family h2.parents{
+    line-height: 1.5;
+    color: #17d651;
+    font-weight: 400;
+    text-align: left;
+}
+
+.family p{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    margin-left: 120px;
+    font-size: 2rem;
+}
+p.profession {
+    color: rgba(255, 255, 255, 0.685);
+    font-size: 1.5rem;
+    margin-left: 250px;
+    text-decoration-style: solid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+li.siblings {
+    text-align: left;
+    font-size: 2rem;
+    margin-left: 120px;
+}
+
+p.expect{
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+}
+
+h2.contact {
+    color:rgb(99, 97, 230)
+}
+
+p.wa {
+    color: rgb(240, 220, 111);
+}
